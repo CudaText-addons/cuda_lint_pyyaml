@@ -1,0 +1,5 @@
+[info]
+title=Linter for YAML, using python-pyyaml
+desc=Linter for CudaLint, adds support for YAML lexer, using Python pyyaml-module
+type=cudatext-plugin
+subdir=cuda_lint_pyyaml
